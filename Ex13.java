@@ -19,7 +19,7 @@ public class Ex13 {
         valorDesconto = valorIng * socios * 0.30f;  // o que deixou de ser arrecadado
 
         System.out.println("O público total é: " + publicoTotal);
-        System.out.println("O total arrecadado foi: " + valorTotal);
-        System.out.println("O valor que deixou de ser arrecadado foi: " + valorDesconto);
+        System.out.println("O total arrecadado foi: R$" + valorTotal);
+        System.out.println("O valor que deixou de ser arrecadado foi: R$" + valorDesconto);
     }
 }
